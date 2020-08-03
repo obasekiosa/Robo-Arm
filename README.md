@@ -1,1 +1,1 @@
-# Gazebo Simulation of a robot arm line up
+# Simulation of a robot arm line up using ROS and Gazebo 
